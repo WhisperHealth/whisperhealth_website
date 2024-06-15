@@ -368,7 +368,7 @@ button {
 
 .text-bg span {
      font-family: 'Baloo Chettan', cursive;
-     color: #da16e6;
+     color: #fa182d;
      font-size: 35px;
      line-height: 77px;
      font-weight: bold;
@@ -379,7 +379,7 @@ button {
 .text-bg a {
      font-size: 17px;
      background-color: #fff;
-     color: #da16e6;
+     color: #fa182d;
      padding: 13px 0px;
      width: 100%;
      max-width: 190px;
@@ -389,13 +389,13 @@ button {
 }
 
 .text-bg a:hover {
-     background-color: #da16e6;
+     background-color: #fa182d;
      color: #fff;
      transition: ease-in all 0.5s;
 }
 
 .text-img {
-     background: #da16e6;
+     background: #fa182d;
 }
 
 .text-img figure {
@@ -466,7 +466,7 @@ button {
 }
 
 .feature .feature_box .read_more:hover {
-     background: #da33e2;
+     background: #fa182d;
 }
 
 
@@ -508,7 +508,7 @@ button {
      align-items: center;
      justify-content: center;
      flex-wrap: wrap;
-     color: #de32e9;
+     color: #fa182d;
 }
 
 .amezing_box .can h4 {
@@ -658,7 +658,7 @@ button {
 }
 
 .customer_Carousel .carousel-indicators li.active {
-     background: #da33e2;
+     background: #fa182d;
 }
 
 .carousel-control-next-icon,
@@ -678,7 +678,7 @@ button {
 }
 
 .pink {
-     color: #da33e2;
+     color: #fa182d;
 }
 
 .request .titlepage h2 {
